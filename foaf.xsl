@@ -25,3 +25,4 @@
       <p>Page d'accueil : <a href="{foaf:homepage/@rdf:resource}"><xsl:value-of select="foaf:homepage/@rdf:resource"/></a></p>
     </div>
 </xsl:template>
+</xsl:stylesheet>
