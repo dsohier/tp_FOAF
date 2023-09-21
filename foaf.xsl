@@ -22,7 +22,6 @@
       <h2>Personal Information</h2>
       <p><strong>Name:</strong> <xsl:value-of select="foaf:name"/></p>
       <p><strong>Age:</strong> <xsl:value-of select="foaf:age"/></p>
+      <p>Page d'accueil : <a href="{foaf:homepage/@rdf:resource}"><xsl:value-of select="foaf:homepage/@rdf:resource"/></a></p>
     </div>
-  </xsl:template>
-
-</xsl:stylesheet>
+</xsl:template>
