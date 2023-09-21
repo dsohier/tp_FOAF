@@ -8,7 +8,7 @@
   <foaf:Person rdf:about="#me">
     <foaf:name>SOHIER Damien</foaf:name>
     <foaf:age>25</foaf:age> 
-    <foaf:homepage rdf:resource="http://danbri.org/" />
-    <foaf:openid rdf:resource="http://danbri.org/" />
+    <foaf:homepage rdf:resource="https://dsohier.github.io/tp_FOAF/" />
+    <foaf:openid rdf:resource="https://dsohier.github.io/tp_FOAF/" />
   </foaf:Person>
 </rdf:RDF>
